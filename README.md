@@ -9,3 +9,4 @@
 * Calendar https://github.com/edosjoy/calendar
 * Task manager https://github.com/edosjoy/task-manager
 * Shelter https://github.com/edosjoy/shelter
+* Weather https://github.com/edosjoy/weather
