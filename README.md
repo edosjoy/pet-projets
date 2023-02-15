@@ -10,3 +10,4 @@
 * Task manager https://github.com/edosjoy/task-manager
 * Shelter https://github.com/edosjoy/shelter
 * Weather https://github.com/edosjoy/weather
+* Marvel Portal https://edosjoy.github.io/marvel-portal/
